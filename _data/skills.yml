@@ -15,7 +15,7 @@
   description: Build projects in Clojure, ClojureScript, C#, C++, JavaScript, PowerShell and more.
 
 - skill: Power BI
-- description: Experience producing Power BI reports from a range of datasources such as google analitics, SharePoint and Dataverse.
+  description: Experience producing Power BI reports from a range of datasources such as google analitics, SharePoint and Dataverse.
 
 - skill: Azure DevOps
-- description: I am familiar with the pipeline and project management tools offered by Azure DevOps.
+  description: I am familiar with the pipeline and project management tools offered by Azure DevOps.
