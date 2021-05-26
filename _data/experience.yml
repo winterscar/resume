@@ -1,0 +1,48 @@
+# Jobs
+# VP of Global Communications
+- company: Springfield International Human Rights Outreach
+  position: VP of Global Communications
+  duration: Oct, 2013 &mdash; Present
+  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+
+# Director of Digital Stratgy
+- company: United Nations Human Rights Council
+  position: Director of Digital Strategy
+  duration:  Jun, 2010 &mdash; Sept, 2013
+  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+
+
+# Communications Coordinator
+- company: WM Reply
+  position: Power Platform Consultant
+  duration: 2018 &mdash; Present (3yrs)
+  summary: |
+    <ul class="resume-item-list">
+      <li> Designed and implemented power platform development approach and process. </li>
+      <li> Numerous Canvas App, Model Driven App, and Power Automate Projects. </li>
+      <li> Assist clients in setting up platform governance and best practices. </li>
+      <li> Occassional full code development in <em>ClojureScript</em> and <em>JavaScript</em>. </li>
+      <li> Deploy and use Power Platform DevOps tooling (for both clients and internally). </li>
+    </ul>
+
+- company: Inrada
+  position: Embedded Systems Engineer
+  duration: 2018 &mdash; 2019 (2yrs)
+  summary: |
+    <ul class="resume-item-list">
+      <li> Developed artificial intelligence for ESS.</li>
+      <li> Wrote Machine learning software for preventative maintenance.</li>
+      <li> Designed and built Real-time embedded operating system for battery management systems and MPPT Solar chargers in <em>c++</em>.</li>
+      <li> Oversaw development of IRIS IOT platform for battery management systems.</li>
+      <li> Designed ecothierrens residential energy management system software and hardware infrastructure.</li>
+    </ul>
+
+- company: You Asked Solutions
+  position: Head of Development
+  duration: 2015 &mdash; 2019 (4yrs)
+  summary: |
+    <ul class="resume-item-list">
+    <li> Managed development strategies for a small development team. </li>
+    <li> Built <em>C#</em> solutions in the renewables space. </li>
+    <li> Designed and built distributed fleet management software for free-floating seaweed growing platforms. </li>
+    </ul>

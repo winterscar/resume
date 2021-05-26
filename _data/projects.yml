@@ -1,0 +1,16 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# jazznotes.io
+- project: Python EISCP
+  role: Primary Developer
+  duration: 3 months
+  url: "https://github.com/winterscar/python-eiscp"
+  description: Python package to interface with Onkyo receivers. Designed to work with Home Assistant.
+
+# Springfield Community Outreach Group
+- project: Power Platform CoE
+  role: Contributor, Private Preview Contributor
+  duration: '2021'
+  url: "https://github.com/microsoft/coe-starter-kit/"
+  description: I participated in and contributed to the Microsoft CoE Starter kit Private preview for the ALM Accelerator for Advanced Makers.
