@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Mathieu Pasquet"
-resume_title:                   "Developer, Consultant, Power Platform Specialist"
+resume_title:                   "Developer, Power Platform Consultant"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "cv@pasquet.co"
