@@ -27,8 +27,8 @@ resume_header_intro: |
   <ul>
     <li> Power Platform specialist </li>
     <li> Experience in both consultancy & development </li>
-    <li> Graduated University of Manchester with a bachelors in engeneerign (2.1) </li>
-    <li> Rich professional experience across a variety of organizations, technologies and challenges. </li>
+    <li> Graduated University of Manchester with a bachelor’s in engineering  (2.1) </li>
+    <li> Rich professional experience across a variety of organizations, technologies, and challenges. </li>
   </ul>
 
 # use "yes" to display the email contact button,
@@ -41,7 +41,7 @@ resume_looking_for_work:        "yes"
 # comment out to hide
 resume_section_experience:      true
 resume_section_education:       true
-resume_section_projects:        false
+resume_section_projects:        true
 resume_section_skills:          true
 resume_section_recognition:     false
 resume_section_links:           false
