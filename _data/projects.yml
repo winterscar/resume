@@ -114,3 +114,10 @@
     As the sole developer of the OceanBlue platform, I developed a full stack (hardware to front-end) solution for tracking and controling floating
     seaweed farms. I produced bespoke GPS tracking hardware, capable of forming a mesh network of upto 5000 nodes across thousands of kilometers, firmware,
     a management backend and a Windows Forms front end for control and visualization.
+
+- project: Outsourced Office Marketing Site
+  url: https://outsourced-office.co.uk
+  technologies: HTML, CSS, JS, Serverless, Figma
+  role: Developer, Designer
+  duration: 2 month
+  description: Designed and implemented the Marketing site for Outsourced Office, as a personal project for a family member.
