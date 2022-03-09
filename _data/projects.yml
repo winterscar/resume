@@ -1,20 +1,6 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-- project: Python EISCP
-  technologies: Open Source, Python, TCP Sockets
-  role: Primary Developer
-  duration: 3 months
-  url: "https://github.com/winterscar/python-eiscp"
-  description: Python package to interface with Onkyo receivers. Designed to work with Home Assistant.
-
-- project: Power Platform CoE
-  technologies: Open Source, Canvas Apps, Model Driven Apps
-  role: Contributor, Private Preview Contributor
-  duration: '2021'
-  url: "https://github.com/microsoft/coe-starter-kit/"
-  description: I participated in and contributed to the Microsoft CoE Starter kit Private preview for the ALM Accelerator for Advanced Makers.
-
 - project: Target
   technologies: Canvas Apps, Model Driven Apps, React, Svelte, C#, Azure Functions, PCF, Custom Connectors, DevOps
   role: Lead Consultant, Architect
@@ -48,6 +34,15 @@
       policies, and additional tooling. One major customiztion was the migration of the ALM4PP solution from an Azure DevOps backend to Github to facilitate
       compliance with existing source control policies.
 
+- project: DLP Calculator
+  technologies: Dataverse, Clojure, Azure Functions
+  role: Sole Developer
+  duration: 1 week
+  description:  |
+     Produced a Clojure webserver to calculate potential conflicts when making changes to a DLP policy. Reads in data from dataverse,
+     along with a 'proposed policy', and outputs a list of affected apps and flows. Designed to be integrated into a DLP Change request pipeline,
+     runs hosted in an Azure Function
+
 - project: New Project Tool
   technologies: PowerShell, Pipelines, Power Automate, Canvas Apps
   role: Lead Developer
@@ -70,14 +65,12 @@
         <li>Deployment Pipelines</li>
       </ul>
 
-- project: DLP Calculator
-  technologies: Dataverse, Clojure, Azure Functions
-  role: Sole Developer
-  duration: 1 week
-  description:  |
-     Produced a Clojure webserver to calculate potential conflicts when making changes to a DLP policy. Reads in data from dataverse,
-     along with a 'proposed policy', and outputs a list of affected apps and flows. Designed to be integrated into a DLP Change request pipeline,
-     runs hosted in an Azure Function
+- project: Python EISCP
+  technologies: Open Source, Python, TCP Sockets
+  role: Primary Developer
+  duration: 3 months
+  url: "https://github.com/winterscar/python-eiscp"
+  description: Python package to interface with Onkyo receivers. Designed to work with Home Assistant.
 
 - project: TAB (The Architecture Board)
   technologies: Canvas Apps, SharePoint
@@ -88,6 +81,13 @@
       existing workflow to PP, I worked with the Architecture team to understand the value derived from the process, and re-designed a new, significantly
       simpler process. The combination of a new process and tool meant that architecture requests could be submitted 5x faster, and approved 100x faster in some cases!
 
+- project: Power Platform CoE
+  technologies: Open Source, Canvas Apps, Model Driven Apps
+  role: Contributor, Private Preview Contributor
+  duration: '2021'
+  url: "https://github.com/microsoft/coe-starter-kit/"
+  description: I participated in and contributed to the Microsoft CoE Starter kit Private preview for the ALM Accelerator for Advanced Makers.
+
 -  project: ePMO
    technologies: SharePoint List Apps, SharePoint view customization, Power BI
    role: Consultant, Developer
@@ -96,3 +96,21 @@
       Developed a bespoke Project Management solution for a large organization. ePMO allows teams to request project management resource using a custom
       SharePoint site, customized using views and List Apps. All project information is ingested into Power BI, allowing the ePMO team to effectively track
       the progress of hundreds of simultaneous projects.
+
+- project: IRIS
+  technologies: Embedded C, React, GCE, Protobuffs
+  role: Embedded Systems Developer
+  duration: 2 years
+  description: |
+    Wrote IRIS OS, a bespoke RTOS (Real Time Operating System) for a family of monitoring boards destined for the green market. IRIS OS and the associated
+    application layer allows for monitoring of a variety of sensors, communicating the aquired telemetry back to distributed back-end for visualization on a custom dashboard.
+    For this project, I was part of a larger team, consisting of back and front end developers, hardware engineers and a QA team.
+
+- project: OceanBlue
+  technologies: C#, Zigbee, EDA, GPS
+  role: Sole Developer
+  duration: 2 years
+  description: |
+    As the sole developer of the OceanBlue platform, I developed a full stack (hardware to front-end) solution for tracking and controling floating
+    seaweed farms. I produced bespoke GPS tracking hardware, capable of forming a mesh network of upto 5000 nodes across thousands of kilometers, firmware,
+    a management backend and a Windows Forms front end for control and visualization.
