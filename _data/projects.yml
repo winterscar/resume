@@ -1,16 +1,98 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
 - project: Python EISCP
+  technologies: Open Source, Python, TCP Sockets
   role: Primary Developer
   duration: 3 months
   url: "https://github.com/winterscar/python-eiscp"
   description: Python package to interface with Onkyo receivers. Designed to work with Home Assistant.
 
-# Springfield Community Outreach Group
 - project: Power Platform CoE
+  technologies: Open Source, Canvas Apps, Model Driven Apps
   role: Contributor, Private Preview Contributor
   duration: '2021'
   url: "https://github.com/microsoft/coe-starter-kit/"
   description: I participated in and contributed to the Microsoft CoE Starter kit Private preview for the ALM Accelerator for Advanced Makers.
+
+- project: Target
+  technologies: Canvas Apps, Model Driven Apps, React, Svelte, C#, Azure Functions, PCF, Custom Connectors, DevOps
+  role: Lead Consultant, Architect
+  duration: 1 year (ongoing)
+  description: |
+      An internal Front-End tool for managing AI generated 'Matches' between clients and lots.
+      With a heavy focus on design, performance and correctness from very demanding stakeholders, Target required every tool in the bag.
+      From custom built PCF controls to enhance built in PowerApp functionality (JavaScript Events triggering, Absolute Positioning, drop-in HTML replacements)
+      or to replace entire screens, through to custom C# back-ends for data-processing and integration with On-Prem databases.
+      Target required a great deal of on-the-fly target solving to push the power platform past its limits, whilst managing client expectations, a delivery team
+      and budget.
+
+- project: Power Platform Governance & Security setup
+  technologies: Power Automate, CoE Starter Kit, Power BI
+  role: Lead Consultant, Architect
+  duration: Various (~ 6 months each)
+  description: | 
+      Consulted with a variety large-size organizations (20k+ users) to formulate an effective governance policy for their power platform.
+      Created Documentation and tooling to enforce policies, worked with Adoption and Change Management teams to coordinate effective adoption
+      and rollout strategies, and worked with internal departments (IT, Security, Licensing) to validate proposed strategies against wider organizational policies.
+
+- project: Power Platform Application Lifecycle Management
+  technologies: Azure Devops, Pipelines, GitHub, PowerShell, Canvas Apps
+  role: Lead Developer
+  duriation: Various (~ 2 months)
+  description: |
+      Produced functional Application Lifecycle Management strategies and associated tooling for a variety of large customers.
+      Before the Creation of Microsoft's ALM4PP solution, I produced custom DevOps tooling to facilitate the deployment of Power Platform solutions,
+      driven by the dual needs of effective developer collaboration and production environment governance.
+      Since the release of ALM4PP, I have configured and customized this process as per client and project requirements, producing documentation,
+      policies, and additional tooling. One major customiztion was the migration of the ALM4PP solution from an Azure DevOps backend to Github to facilitate
+      compliance with existing source control policies.
+
+- project: New Project Tool
+  technologies: PowerShell, Pipelines, Power Automate, Canvas Apps
+  role: Lead Developer
+  duration: 4 months
+  description: |
+      Developed a 'New Project Tool' for advanced Power Platform Developers. The New Project tool allows advanced makers to get started on a new 
+      Power Platform project without needing to manually provision resources. The NPT allows users to submit a new project request using very simple
+      language (what connectors will this project use, how will you manage user permissions), the results of which are transformed into a provisioning plan
+      which, (subject to approval), is implemented using PowerShell scripts running in an Azure DevOps pipeline.
+      Links to all generated resources are then returned to the user once provisioning is complete. The NPT provisions some combination of the following resources
+      subject to project requirements:
+      <ul>
+        <li>Power Platform Environments & DLP Policies</li>
+        <li>Git Repos with branch policies</li>
+        <li>Azure Devops permissions, backlogs, teams</li>
+        <li>ALM4PP deployment profiles for each developer</li>
+        <li>Service Accounts</li>
+        <li>AD Groups</li>
+        <li>Initialized solution template</li>
+        <li>Deployment Pipelines</li>
+      </ul>
+
+- project: DLP Calculator
+  technologies: Dataverse, Clojure, Azure Functions
+  role: Sole Developer
+  duration: 1 week
+  description:  |
+     Produced a Clojure webserver to calculate potential conflicts when making changes to a DLP policy. Reads in data from dataverse,
+     along with a 'proposed policy', and outputs a list of affected apps and flows. Designed to be integrated into a DLP Change request pipeline,
+     runs hosted in an Azure Function
+
+- project: TAB (The Architecture Board)
+  technologies: Canvas Apps, SharePoint
+  role: Lead Developer, Consultant
+  duration: 4 months
+  description: |
+      Developed a replacement architecture approval process, moving from Nintext Forms to Power Platform. However, instead of simply migrating the
+      existing workflow to PP, I worked with the Architecture team to understand the value derived from the process, and re-designed a new, significantly
+      simpler process. The combination of a new process and tool meant that architecture requests could be submitted 5x faster, and approved 100x faster in some cases!
+
+-  project: ePMO
+   technologies: SharePoint List Apps, SharePoint view customization, Power BI
+   role: Consultant, Developer
+   duration: 6 months
+   description:  |
+      Developed a bespoke Project Management solution for a large organization. ePMO allows teams to request project management resource using a custom
+      SharePoint site, customized using views and List Apps. All project information is ingested into Power BI, allowing the ePMO team to effectively track
+      the progress of hundreds of simultaneous projects.
