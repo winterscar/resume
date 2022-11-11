@@ -1,13 +1,24 @@
 # Jobs
+
+- company: Yapster
+  position: Clojure Developer
+  duration: 2022 &mdash; Present
+  summary: |
+    <ul class="resume-item-list">
+      <li> Hit the ground running, committing fixes to the codebase within my first few weeks. </li>
+      <li> Simplified the DX by wrapping all existing build commands into a simple CLI written in Babashka. </li>
+      <li> Contributed significantly to the development of the React Native build of the application. </li>
+      <li> Worked in a Shape-up environment, contributing to and implementing pitches. </li>
+    </ul>
 - company: WM Reply
-  position: Power Platform Consultant
-  duration: 2018 &mdash; Present (3yrs)
+  position: Power Platform Senior Consultant
+  duration: 2018 &mdash; 2022 (3yrs)
   summary: |
     <ul class="resume-item-list">
       <li> Designed and implemented power platform development approach and process. </li>
       <li> Numerous Canvas App, Model Driven App, and Power Automate Projects. </li>
       <li> Assist clients in setting up platform governance and best practices. </li>
-      <li> Occassional full code development in <em>ClojureScript</em> and <em>JavaScript</em>. </li>
+      <li> Full code development in <em>ClojureScript</em> and <em>JavaScript</em>. </li>
       <li> Deploy and use Power Platform DevOps tooling (for both clients and internally). </li>
     </ul>
 

@@ -1,10 +1,19 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+- project: Yapster RN re-write
+  technologies: React Native, Storybook, Clojure, ClojureScript
+  role: Developer
+  duration: 6 months (ongoing)
+  description: |
+      Configured and developed the next phase of the Yapster mobile app. Working as part of a small team, we created 
+      a clojurescript application that compiled to both a web-app and native ios/android builds. I was involved with the
+      creation of the UI library in Storybook, configuration of the build process and tooling, and the implementation of
+      several 'backend' features such as data-persistence, and authentication.
 - project: Target
   technologies: Canvas Apps, Model Driven Apps, React, Svelte, C#, Azure Functions, PCF, Custom Connectors, DevOps
   role: Lead Consultant, Architect
-  duration: 1 year (ongoing)
+  duration: 1 year
   description: |
       An internal Front-End tool for managing AI generated 'Matches' between clients and lots.
       With a heavy focus on design, performance and correctness from very demanding stakeholders, Target required every tool in the bag.
