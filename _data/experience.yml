@@ -1,8 +1,18 @@
 # Jobs
 
+- company: Doccla
+  position: Senior Developer
+  duration: 2023 &mdash; Present
+  summary: |
+    <ul class="resume-item-list">
+      <li> Developed continuous monitoring capability to monitor patients in realtime </li>
+      <li> Delivered a variety of end-to-end services to empower internal teams </li>
+      <li> Contributed significantly key company policies such as documentation structure, style guides, and tech stack </li>
+      <li> Worked with internal teams, as well as with external consultants </li>
+    </ul>
 - company: Yapster
   position: Clojure Developer
-  duration: 2022 &mdash; Present
+  duration: 2022 &mdash; 2023 (1 yrs)
   summary: |
     <ul class="resume-item-list">
       <li> Hit the ground running, committing fixes to the codebase within my first few weeks. </li>
